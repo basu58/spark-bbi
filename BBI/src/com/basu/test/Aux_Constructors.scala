@@ -29,7 +29,7 @@ object TestConstructors{
     val obj = new Aux_Constructors
     println(obj)
     
-    val obj1 = new Aux_Constructors(123, 26,"Basu1")
+    val obj1 = new Aux_Constructors(123, 26,"Basu2")
     println(obj1)
     
   }
