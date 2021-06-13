@@ -6,7 +6,7 @@ class Primary_Constructors(sId : Int, sName: String, sAge: Int) {
 
 object TestPrimary{
   def main(args: Array[String]): Unit = {
-    val obj = new Primary_Constructors(123, "Dev", 26)
+    val obj = new Primary_Constructors(123, "Dev1", 26)
     println(obj)
   }
 }
